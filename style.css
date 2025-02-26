@@ -50,9 +50,9 @@ button {
     background-color: #999898;
     width: 400px;
     height: 75px;
-    font-size: 60px;
+    font-size: 55px;
     font-family: cursive;
-    color: black;
+    color: rgb(0, 0, 0);
     align-items: center;
 }
 h1 { 
